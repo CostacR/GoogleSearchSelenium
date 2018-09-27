@@ -1,7 +1,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
 <suite name="Google search tests suite" verbose="1" >
-    <parameter name="browserName" value="FireFox"/>
+    <parameter name="browserName" value="Chrome"/>
 
     <test name="Google search test" >
 
