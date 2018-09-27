@@ -1,6 +1,6 @@
 To start the test, you need:
-1. Forgive the installation of the environment SELENIUM WD.
-2. Run the test
+* Install the installation of the environment SELENIUM WD.
+* Run the test
 
 
 
