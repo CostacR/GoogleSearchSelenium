@@ -55,3 +55,8 @@ Java HotSpot(TM) 64-Bit Server VM XX.X (build XX.X.X+X, mixed mode)
 
 2. Run test
 ===========================
+1. Start Intellij IDEA
+2. Open Project
+3. Open Terminal
+3.1 Write on Terminal: "clean install -DsuiteXmlFile=search_tests.xml"
+

@@ -43,6 +43,6 @@ public class GoogleSearchBaseTest {
     }
     @AfterMethod (alwaysRun = true)
     public void afterMethod (){
-//        driver.quit();
+        driver.quit();
     }
 }
